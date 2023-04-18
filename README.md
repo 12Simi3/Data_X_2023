@@ -25,4 +25,4 @@ Afterwards, it is essential to install all packages required for this project.
 pip install -r requirements.txt
 ```
 ### Loading a model
-For loading the model of logistic regression use instruction file in Models directory. During this task we used tensorflow.
+For loading the model of logistic regression use instruction file in Models directory. For this task we used tensorflow.
